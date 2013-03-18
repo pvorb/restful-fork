@@ -6,7 +6,7 @@
     { "name": "Marak Squires", "email": "marak@nodejitsu.com" }
   ],
   "version": "0.4.4",
-  "main": "./lib/restful",
+  "main": "./lib/restful2.js",
   "peerDependencies": {
     "director": "1.1.x",
     "resourceful": "0.3.x"
