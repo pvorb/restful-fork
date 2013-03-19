@@ -16,8 +16,7 @@
     "director-explorer": "*",
     "resourceful": "0.3.x",
     "utile": "0.1.x",
-    "qs": "*",
-    "i": "*"
+    "qs": "*"
   },
   "devDependencies": {
     "vows": "0.6.x",
